@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "wn:blood_pressure_plate_up" },
+        "powered=true": { "model": "wn:blood_pressure_plate_down" }
+    }
+}

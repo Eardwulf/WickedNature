@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "wn:blocks/blood_block",
+        "top": "wn:blocks/blood_block",
+        "side": "wn:blocks/blood_block"
+    }
+}

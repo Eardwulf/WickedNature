@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=tutorial": { "model": "wn:planks_arcane" },
+        "variant=aluminium": { "model": "wn:planks_blood"}
+    }
+}

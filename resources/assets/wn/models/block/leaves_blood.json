@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "wn:blocks/leaves_blood"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "wn:blocks/log_arcane_top",
+        "side": "wn:blocks/log_arcane"
+    }
+}

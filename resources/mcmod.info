@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wn",
+  "name": "Wicked Nature",
+  "description": "So you think its the Goblin, Orcs, or any of the other monsters out there that will get you in the end! I think Nature has another idea in mind.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eardwulf"],
+  "credits": "To all the support of my fans and family.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

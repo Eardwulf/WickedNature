@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "wn:blood_block" }
+    }
+}

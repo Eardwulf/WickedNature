@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "axis=x,variant=arcane": { "model": "wn:log_arcane" },
+        "axis=x,variant=blood": { "model": "wn:log_blood"},
+        "axis=y,variant=arcane": { "model": "wn:log_arcane" },
+        "axis=y,variant=blood": { "model": "wn:log_blood"},
+        "axis=z,variant=arcane": { "model": "wn:log_arcane" },
+        "axis=z,variant=blood": { "model": "wn:log_blood"},
+        "axis=none,variant=arcane": { "model": "wn:log_arcane" },
+        "axis=none,variant=blood": { "model": "wn:log_blood"}
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "stage=0,variant=arcane": { "model": "wn:sapling_arcane" },
+        "stage=0,variant=blood": { "model": "wn:sapling_blood"},
+        
+        "stage=1,variant=arcane": { "model": "wn:sapling_arcane" },
+        "stage=1,variant=blood": { "model": "wn:sapling_blood" }
+    }
+}

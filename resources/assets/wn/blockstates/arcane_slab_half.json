@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "wn:arcane_slab_bottom" },
+        "half=top": { "model": "wn:arcane_slab_top" }
+    }
+}

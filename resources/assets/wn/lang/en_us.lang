@@ -1,0 +1,26 @@
+tile.arcane_stairs.name=Arcane Stairs
+tile.arcane_slab_half.name=Arcane Slab
+tile.arcane_slab_double.name=Arcane Double Slab
+tile.arcane_fence.name=Arcane Fence
+tile.arcane_fence_gate.name=Arcane Fence Gate
+tile.arcane_pressure_plate.name=Arcane Pressure Plate
+tile.arcane_button.name=Arcane Button
+tile.arcane_block.name=Arcane Block
+tile.blood_stairs.name=Blood Stairs
+tile.blood_slab_half.name=Blood Slab
+tile.blood_slab_double.name=Blood Double Slab
+tile.blood_fence.name=Blood Fence
+tile.blood_fence_gate.name=Blood Fence Gate
+tile.blood_pressure_plate.name=Blood Pressure Plate
+tile.blood_button.name=Blood Button
+tile.blood_block.name=Blood Block
+
+tile.planks_arcane.name=Arcane Planks
+tile.planks_blood.name=Blood Planks
+tile.log_arcane.name=Arcane Log
+tile.log_blood.name=Blood Log
+tile.leaves_arcane.name=Arcane Leaves
+tile.leaves_blood.name=Blood Leaves
+tile.sapling_arcane.name=Arcane Sapling
+tile.sapling_blood.name=Blood Sapling
+

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "wn:blood_block" },
+        "half=bottom": { "model": "wn:blood_block" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "wn:blocks/arcane_block",
+        "top": "wn:blocks/arcane_block",
+        "side": "wn:blocks/arcane_block"
+    }
+}

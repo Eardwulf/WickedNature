@@ -1,0 +1,14 @@
+{
+    "variants": 
+    {
+        "check_decay=true,decayable=true,variant=arcane": { "model": "wn:leaves_arcane" },
+        "check_decay=true,decayable=false,variant=arcane": { "model": "wn:leaves_arcane" },
+        "check_decay=false,decayable=true,variant=arcane": { "model": "wn:leaves_arcane" },
+        "check_decay=false,decayable=false,variant=arcane": { "model": "wn:leaves_arcane" },
+        
+        "check_decay=true,decayable=true,variant=blood": { "model": "wn:leaves_blood" },
+        "check_decay=true,decayable=false,variant=blood": { "model": "wn:leaves_blood" },
+        "check_decay=false,decayable=true,variant=blood": { "model": "wn:leaves_blood" },
+        "check_decay=false,decayable=false,variant=blood": { "model": "wn:leaves_blood" }
+    }
+}
